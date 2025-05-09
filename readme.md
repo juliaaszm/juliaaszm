@@ -2,7 +2,7 @@
 
 **`Estudante de Tecnologia da Informação`**
 
-Me chamo Júlia Moreira, tenho 16 anos de idade e sou nascida de Santo André, São Paulo. Estou realizando meu ensino médio no SESI e meu ensino técnico em Desenvolvimento de Sistemas no SENAI "A" Jacob Lafer. Possuo uma proximidade maior na área de front-end e tenho interesse em me especializar no ramo de Design Gráfico.
+Me chamo Júlia Moreira, tenho 16 anos de idade e sou de Santo André, São Paulo. Estou realizando meu ensino médio no SESI e meu ensino técnico em Desenvolvimento de Sistemas no SENAI "A" Jacob Lafer. Possuo uma proximidade maior na área de front-end e tenho interesse em me especializar no ramo de Design Gráfico.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/j%C3%BAlia-souza-moreira-428736352/">
