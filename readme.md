@@ -19,7 +19,7 @@ Me chamo Júlia Moreira, tenho 16 anos de idade e sou nascida de Santo André, S
             src="https://custom-icon-badges.demolab.com/github/stars/juliaaszm?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/rjuliaaszm?tab=followers">
+    <a href="https://github.com/juliaaszm?tab=following">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub!!" 
